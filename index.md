@@ -1,8 +1,6 @@
 # 韓文班功課繳交 
 
-## Assignment Submission:
-
-## To Submit your assignment:  >["PLEASE CLICK HERE 功課繳交"](https://script.google.com/macros/s/AKfycby-dtJtktzu0T5V5s6iS3wVPWABpdlbXATfCkaVvz97PfqFVY0/exec "功課繳交")
+## Assignment Submission:["PLEASE CLICK HERE 功課繳交"](https://script.google.com/macros/s/AKfycby-dtJtktzu0T5V5s6iS3wVPWABpdlbXATfCkaVvz97PfqFVY0/exec "功課繳交")
 
 <br />
 <br />
